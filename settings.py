@@ -1,2 +1,3 @@
-valid_email = 'nastia4@gmail.com'
-valid_password = 'PetFriend'
+valid_email = 'dsploit2@gmail.com'
+valid_password = '820663'
+
